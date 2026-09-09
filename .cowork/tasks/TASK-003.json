@@ -1,0 +1,22 @@
+{
+  "id": "TASK-003",
+  "scenario": "research",
+  "type": "review",
+  "title": "Review: 科拉茨猜想",
+  "status": "open",
+  "body": "",
+  "need": [],
+  "owner": "",
+  "seed_urls": [],
+  "allow_hosts": [],
+  "path": "",
+  "content": "",
+  "depends_on": [
+    "TASK-002"
+  ],
+  "mode": "research",
+  "brand": "",
+  "max_images": 0,
+  "created_at": 1788937301,
+  "updated_at": 1788937301
+}
