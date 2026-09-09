@@ -3,10 +3,10 @@
   "scenario": "research",
   "type": "review",
   "title": "Review: 科拉茨猜想",
-  "status": "open",
+  "status": "claimed",
   "body": "",
   "need": [],
-  "owner": "",
+  "owner": "ac1",
   "seed_urls": [],
   "allow_hosts": [],
   "path": "",
@@ -18,5 +18,5 @@
   "brand": "",
   "max_images": 0,
   "created_at": 1788937301,
-  "updated_at": 1788937301
+  "updated_at": 1788937859
 }
