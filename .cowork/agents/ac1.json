@@ -3,10 +3,12 @@
   "role": "planner",
   "capabilities": [
     "enqueue",
-    "plan"
+    "implement",
+    "plan",
+    "review"
   ],
   "model": "Auto",
   "host": "56008",
-  "heartbeat_at": 1788937602,
+  "heartbeat_at": 1788937616,
   "protocol": "1.0"
 }
