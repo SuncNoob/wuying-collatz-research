@@ -3,7 +3,7 @@
   "scenario": "research",
   "type": "implement",
   "title": "Implement: 科拉茨猜想",
-  "status": "in_progress",
+  "status": "done",
   "body": "科拉茨猜想（Collatz）：对任意正整数 n，若 n 为偶数则变为 n/2，若 n 为奇数则变为 3n+1，重复后是否总会到达 1。请做研究尝试：写清命题、已知结果、你的尝试，以及仍未证明的缺口。禁止宣称已经完全证明。允许附带 workspace/collatz_check.py，对 n=1..10000 做有限核验并打印 OK。",
   "need": [],
   "owner": "ac1",
@@ -16,5 +16,5 @@
   "brand": "",
   "max_images": 0,
   "created_at": 1788937301,
-  "updated_at": 1788937645
+  "updated_at": 1788937834
 }
