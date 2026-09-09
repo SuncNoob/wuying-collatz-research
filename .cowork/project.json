@@ -1,0 +1,12 @@
+{
+  "protocol": "1.0",
+  "name": "collatz-research",
+  "scenario": "all",
+  "remote": "git@github-research:SuncNoob/wuying-collatz-research.git",
+  "roles": {
+    "planner": "ac1",
+    "builder": "ac2",
+    "reviewer": "ac3"
+  },
+  "created_at": 1788937140
+}
