@@ -3,7 +3,7 @@
   "scenario": "research",
   "type": "review",
   "title": "Review: 科拉茨猜想",
-  "status": "in_progress",
+  "status": "done",
   "body": "",
   "need": [],
   "owner": "ac1",
@@ -18,5 +18,5 @@
   "brand": "",
   "max_images": 0,
   "created_at": 1788937301,
-  "updated_at": 1788937883
+  "updated_at": 1788937887
 }
